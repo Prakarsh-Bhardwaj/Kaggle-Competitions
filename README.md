@@ -8,6 +8,6 @@ House Prices: Advanced Regression Techniques is a knowledge competition on Kaggl
 
 ## Titanic: Machine Learning from Disaster
 
-link
+<a href="https://nbviewer.jupyter.org/github/Prakarsh-Bhardwaj/Kaggle-Competitions/blob/master/adv-house-pred-final.ipynb">nbviewer</a>
 
 Titanic: Machine Learning from Disaster is a knowledge competition on Kaggle. Many people started practicing in machine learning with this competition, so did I. This is a binary classification problem: based on information about Titanic passengers we predict whether they survived or not. General description and data are available on Kaggle. Titanic dataset provides interesting opportunities for feature engineering.
