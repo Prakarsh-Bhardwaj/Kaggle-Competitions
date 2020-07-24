@@ -2,7 +2,7 @@
 
 ## House Prices: Advanced Regression Techniques
 
-link
+<a href=""
 
 House Prices: Advanced Regression Techniques is a knowledge competition on Kaggle. This is a regression problem: based on information about houses we predict their prices. General description and data are available on Kaggle. The dataset has a lot of features and many missing values. This gives interesting possibilities for feature transformation and data visualization.
 
